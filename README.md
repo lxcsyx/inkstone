@@ -99,7 +99,7 @@ public/       Static assets
 scripts/      Repository checks and end-to-end verification scripts
 tests/        Cross-module regression tests
 ```
-
+ 
 ## Security and contributions
 
 Read [`SECURITY.md`](./SECURITY.md) before reporting a vulnerability. Development setup and contribution requirements are documented in [`CONTRIBUTING.md`](./CONTRIBUTING.md).
